@@ -85,4 +85,19 @@ footer{
   text-transform: uppercase;
   font-weight: 500;
 }
+.blog-post{
+    font-family: 'Arvo', courier, serif;
+    color: brown;
+}
 
+.blog-post-meta{
+  font-weight: 500;
+}
+
+#social{
+  padding-left: 400px;
+}
+
+#footer{
+  margin-top: -102px;
+}
